@@ -1,0 +1,172 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+.title {
+    text-align: center;
+    font-family: "job-clarendon", serif;
+    letter-spacing: 1px;
+    font-size:250%;
+    border-width: 1000px;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:20%;
+    height:20%;
+    margin-top: 180px;
+}
+
+.line {
+    color: black;
+    background-color: black;
+    height: 4px;
+}
+
+#field {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 1;
+}
+
+.special {
+    text-align: center;
+    font-family: "gintronic", sans-serif, bold;
+    font-size: 140%;
+}
+
+#album {
+    
+    text-align: center;
+    margin-top: 15px;
+    font-family: "job-clarendon", serif;
+    letter-spacing: 1px;
+    font-size:300%;
+    margin-bottom:-5px
+}
+
+#artist {
+    font-family: "job-clarendon", serif;
+    text-align: center;
+    font-size: 225%;
+    margin-top: -10px;
+    letter-spacing: 1px;
+}
+
+
+a { 
+    text-decoration:underline; 
+    color:black; 
+}
+
+a:hover, a:active { 
+    text-decoration: none; 
+    color:cornflowerblue
+ }
+
+.kentucky {
+    font-family: "gintronic", sans-serif;
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 150px;
+    margin-right: 0px;
+    margin-top: 30px;
+    width: 295px;
+    display: inline-block;
+    position: relative;
+    padding-bottom: 28px;
+    line-height: 3.3;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.connecticut {
+    font-family: "gintronic", sans-serif;
+    text-align: center;
+    border: 3px solid black;
+    display: inline-block;
+    position: absolute;
+    margin-left: 143px;
+    padding-top: 20px;
+    margin-top: 31px;
+    padding-left: 9px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+
+}
+
+.maverick {
+    width: 270px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 2.2;
+    margin-top:-5px;
+    padding-top:15px;
+}
+
+.swag {
+    font-size: 180%;
+    font-family: "job-clarendon", serif;
+    letter-spacing: 1px;
+}
+
+#nonsense {
+    padding-top:-45px;
+    margin-top:-25px;
+}
+
+.supernova {
+    text-align: center;
+    border: 3px solid black;
+    display: inline-block;
+    position: absolute;
+    margin-left: 575px;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-top: 23px;
+    padding-bottom: 27px;
+    margin-top: 30px;
+}
+
+#highlights {
+    font-family: "gintronic", sans-serif;
+    padding-top: 10px;
+    padding-left: 35px;
+}
+
+.monkey {
+    text-align: center;
+    border: 3px solid black;
+    display: inline-block;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: -295px;
+    width: 82%;
+}
+
+.albums {
+    margin-top: 20px;
+}
+
+#unique {
+    width: 100%;
+    height: auto;
+}
+
+.dag {
+    font-size: 180%;
+    font-family: "job-clarendon", serif;
+    letter-spacing: 1px;
+    margin-top: 26px;
+}
